@@ -1,11 +1,13 @@
 ### Matheus de Oliveira
 ## Me chamo Matheus e meu nickname é Fate
+# Estudo programação desde o fim de 2022, no começo fiquei meio perdido e procurei orientações sobre como começar e o que estudar, comecei pelo python mas não me aprofundei muito, entao fui para o feijão com arroz, HTML/CSS e JavaScript, no qual estudo desde então e recentemente comecei a estudar o React e Node.Js
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/fatekkl">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatekkl&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatekkl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+![Snake animation](https://github.com/fatekkl/fatekkl/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **fatekkl/fatekkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
