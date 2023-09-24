@@ -1,4 +1,11 @@
-### Hi there 👋
+### Matheus de Oliveira
+## Me chamo Matheus e meu nickname é Fate
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatekkl&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fatekkl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **fatekkl/fatekkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
