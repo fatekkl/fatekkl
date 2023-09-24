@@ -6,9 +6,7 @@
 # Atualmente estou trabalhando em projetos pessoais, principalmente o meu portfólio.
 
 ### Contato
-<div>
-<a href="https://wa.me/5511987539647?text=Fale%20comigo!"/>
-</div>
+# +5511987539647
 
 <div>
 <a href="https://github.com/fatekkl">
