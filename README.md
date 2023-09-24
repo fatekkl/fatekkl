@@ -5,6 +5,9 @@
 ### O que estou fazendo atualmente?
 # Atualmente estou trabalhando em projetos pessoais, principalmente o meu portfólio.
 
+### Contato
+<a href="https://api.whatsapp.com/send?phone=5511987539647."/>
+
 <div>
 <a href="https://github.com/fatekkl">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatekkl&layout=compact&langs_count=7&theme=dracula"/>
