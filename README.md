@@ -1,12 +1,9 @@
 ### Matheus de Oliveira
-## Me chamo Matheus e meu nickname é Fate
 # Tenho 17 anos e atualmente estou no 2 ano do EM, Moro em São Paulo e estudo com conteudo gratuito da internet e com a Plataforma Alura 
 # Estudo programação desde o fim de 2022, no começo fiquei meio perdido e procurei orientações sobre como começar e o que estudar, comecei pelo python mas não me aprofundei muito, entao fui para o feijão com arroz, HTML/CSS e JavaScript, no qual estudo desde então e recentemente comecei a estudar o React e Node.Js
 
-## O que estou fazendo atualmente?
+### O que estou fazendo atualmente?
 # Atualmente estou trabalhando em projetos pessoais, principalmente o meu portfólio.
-
-### A
 
 <div>
 <a href="https://github.com/fatekkl">
