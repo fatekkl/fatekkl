@@ -1,11 +1,11 @@
-### Matheus de Oliveira
+<h1 align="center">Matheus de Oliveira</h1> 
 
 <div>
 <a href="https://github.com/fatekkl">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatekkl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Technologies Skills  💧👾
+###  Skills  💧👾
 <div>
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -15,6 +15,11 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	
 </div>
+
+### Fale comigo!
+
+   <a href="https://www.linkedin.com/in/fatekkl/" target="_blank"><img  alt="Boots" height="25" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 <!--
 **fatekkl/fatekkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
