@@ -17,7 +17,7 @@
 </div>
 
 ### Fale comigo!
-- Whatsapp: [Matheus](https://www.linkedin.com/in/fatekkl)
+- Whatsapp: [Fate](https://api.whatsapp.com/send?phone=5511987539647&text=Talk%20with%20me!)
 - Email: [mathtml.1105@gmail.com](mailto:mathtml.1105@gmail.com)
 
 
