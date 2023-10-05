@@ -19,7 +19,10 @@
 ### Fale comigo!
 - Whatsapp: [Matheus](https://www.linkedin.com/in/fatekkl)
 - Email: [mathtml.1105@gmail.com](mailto:mathtml.1105@gmail.com)
-   <a href="https://www.linkedin.com/in/fatekkl/" target="_blank"><img  alt="Boots" height="25" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+
+<a href="https://www.linkedin.com/in/fatekkl/" target="_blank"><img  alt="Boots" height="25" wight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <!--
